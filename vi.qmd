@@ -1,5 +1,5 @@
 ---
-title: "El Impacto de la Violencia Vicaria en Niños y Adolescentes en Chile"
+title: "El Impacto de la Violencia Vicaria y Entornos Familiares Violentos en Niños y Adolescentes en Chile"
 author: "Alem Perez"
 bibliography: vicaria.bib
 link-citations: true
