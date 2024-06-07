@@ -1,0 +1,46 @@
+---
+title: "El Impacto de la Violencia Vicaria en Niños y Adolescentes en Chile"
+author: "Alem Perez"
+bibliography: vicaria.bib
+link-citations: true
+---
+
+### **Introducción**
+
+La violencia vicaria es definida como aquella, "perpetrada cuando un progenitor convierte en víctima de la violencia a un hijo o una hija con el fin de causar dolor y sometimiento al otro progenitor" @vivianacastellanossuarezInfanciasAfectadasPor2023 . Generalmente, suele ser ejercida por un hombre y se da en situaciones donde el actor ya no puede "ejercer su violencia en contra de la mujer, por ello los destinatarios directos de sus acciones u omisiones son sus hijas e hijos en aras de producir un daño (...) en la madre" (Porter y López, 2022. En @emmapatriciamunozzepedaViolenciaVicaria2023 .
+
+Este tipo de violencia puede presentarse con mayor frecuencia en parejas con hijos/as en medio de un divorcio o separación y una de las partes propicia un "escenario violento \[al\] no aceptar la ruptura, \[con\] la intención de continuar con el dominio y control de la vida" del otro/a @emmapatriciamunozzepedaViolenciaVicaria2023 aunque, también hay casos donde se ejerce violencia hacia los/as menores con el fin de mantener a raya la sublevación y control a la pareja.
+
+"la violencia vicaria en escenarios conyugales en crisis tiene que ver con el acceso, comunicación y relación hacia los hijos e hijas, tanto en la custodia, como en la convivencia, donde está también presente la violencia real o vicaria contra el otro progenitor después de la separación entre la pareja." @vivianacastellanossuarezInfanciasAfectadasPor2023
+
+### **Conceptos asociados**
+
+Al mismo tiempo, la exposición de NNA a la violencia familiar engloba, -en la mayoría de los casos- la violencia de género, (...) violencia vicaria y (...) violencia institucional (...) detectando al menos siete tipos diferentes de manifestaciones de\] **a.** **violencia \[directa\]** en la violencia vicaria, llamada también VV" (Porter y López-Angulo. 2022. En @vivianacastellanossuarezInfanciasAfectadasPor2023 estas son cuando: "el progenitor ejerce una agresión psicológica, física, sexual, económica, vincular y/o judicial sobre los hijos en común o actúa negligentemente en función de los cuidados requeridos por la edad del niño" @barbaraporterViolenciaVicariaContexto2022
+
+y **b. victimización indirecta:** esta implica que el NNA es testigo de la violencia que ejerce el progenitor hacia la madre, destaca el momento de entrega o recepción de NNA en las visitas. En la mayoría de los casos, este es el único momento en que los progenitores se encuentran." @barbaraporterViolenciaVicariaContexto2022
+
+Los efectos de ambas manifestaciones envuelve malestares y síntomas "externalizantes,  internalizantes y psicosomáticos." @barbaraporterViolenciaVicariaContexto2022
+
+**a. síntomas internalizantes**: ansiedad, nerviosismo,  tensión,  angustia,  desconfianza,  miedo,  tristeza,  llanto  y  desgano.
+
+**b. síntomas externalizantes:** irritabilidad, agresividad, oposicionismo (no quiere levantarse de la cama, vestirse, etc) y conductas de resistencia a irse con el progenitor (resistencia a irse, se esconde, ruega para no irse).
+
+**c. somatizaciones:** dolor de estómago, vómitos y enuresis.
+
+@barbaraporterViolenciaVicariaContexto2022
+
+### **Problema de investigación**
+
+Finalmente, a modo de síntesis, lo indicado anteriormente abarca definición de Violencia Vicaria y los efectos o manifestaciones que pueden percibir niños, niñas y adolescentes expuestos a este tipo de violencia, por lo que en la presente investigación se intentará responder a la siguiente pregunta: ¿En qué medida la violencia vicaria y la exposición violencia familiar afectan el bienestar emocional de niños, niñas y adolescentes en Chile?
+
+Hipótesis central:
+
+"Se espera que los/as NNA que han experimentado violencia vicaria y entornos familiares violentos presenten niveles más altos de polivictimización y peores indicadores de bienestar emocional en comparación con aquellos que no han estado expuestos a estas formas de violencia."
+
+El principal objetivo de esta investigación es realizar una escala de violencia vicaria y familiar para determinar en qué medida la violencia vicaria y la exposición a entornos familiares violentos afectan el bienestar emocional de NNA en Chile junto con evaluar los niveles de polivictimización en NNA que han sido expuestos a violencia vicaria y entornos familiares violentos.
+
+A medida que se avanza con el análisis, se aspira en especificar y comparar los indicadores de bienestar emocional, como la autoestima y los síntomas de depresión, entre NNA expuestos a violencia vicaria y entornos familiares violentos y aquellos que no lo están. También, identificar las características sociodemográficas que pueden influir en el grado de impacto de estas formas de violencia en el bienestar emocional de los NNA.
+
+### **Relevancia**
+
+Considero fundamental investigar en qué medida la combinación de violencia vicaria y la exposición a entornos violentos, en específico familiares, afecta al bienestar emocional de los NNA en Chile, junto a la recopilación de bibliografía he notado la escasez de investigaciones dedicadas específicamente en NNA, la razón es que se considera una problemática mayormente cualitativa, junto a que los datos recopilados fueron creados a partir de madres afectadas por esta clase de violencia familiar y de género, pero, utilizando la "Segunda Encuesta Nacional de Polivictimización de NNA, 2022", se propondrá cuantificar el impacto, particularmente, emocional que manifiesta esta población en específico, con el fin de realizar un bosquejo a la realidad de los/as jóvenes vulnerados/as. Los hallazgos de este estudio pueden ser utilizados para diseñar políticas y estrategias efectivas para prevenir y mitigar los efectos negativos de estas formas de violencia desde la institucionalidad.
